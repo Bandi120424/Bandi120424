@@ -10,12 +10,6 @@ Hello :smile:
 ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white)
 ![Wolfram Mathematica Badge](https://img.shields.io/badge/WolframMathematica-DD1100?style=flat-square&logo=WolframMathematica&logoColor=white)
 
-
-
-#### activities :computer:
-- 네이버 AI Tech 5기 2023.03 - 2023.07
-- 프로그래머스 인공지능 데브코스 4기 2022.09 - 2023.02 (프로젝트 최우수상: https://youtu.be/AgAAQJ6TOZA)
-
 #### papers :page_facing_up:	
 As an AI research engineer, I wrote:
 - 병렬 딥러닝 기법에 관한 연구 동향 분석, 한국통신학회논문지, 2021.10.
